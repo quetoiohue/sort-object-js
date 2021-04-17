@@ -1,0 +1,28 @@
+{
+  "name": "sort-object-js",
+  "version": "1.0.0",
+  "description": "Return a object copy was sorted by keys, properties,...",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quetoiohue/sort-object-js.git"
+  },
+  "keywords": [
+    "function",
+    "js",
+    "sort",
+    "object",
+    "by",
+    "keys",
+    "properties",
+    "order"
+  ],
+  "author": "Quang Tran",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
